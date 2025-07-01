@@ -42,5 +42,19 @@ Este é um projeto de estudo desenvolvido como parte dos meus primeiros passos c
 
 ---
 
-## 🚀 Acesse e Teste aqui:
+## 🚀 Como executar o projeto localmente
+
+1. Clone o repositório:
+
+```
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+````
+Navegue até a pasta do projeto:
+
+```
+cd nome-do-repositorio
+````
+Abra o arquivo index.html em seu navegador favorito.
+
+📦 Não é necessário nenhum servidor ou instalação adicional — o projeto roda localmente com HTML, CSS e JS puro.
 
